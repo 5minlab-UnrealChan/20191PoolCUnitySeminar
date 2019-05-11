@@ -1348,7 +1348,7 @@ ModelImporter:
     - name: Ring_01_L
       parentName: Hand_L
       position: {x: -0.07795732, y: 0.011739527, z: -0.010014726}
-      rotation: {x: -0.0001679658, y: 0.009215588, z: -0.0023142684, w: 0.9999548}
+      rotation: {x: -0.00016796582, y: 0.009215589, z: -0.0023142686, w: 0.9999549}
       scale: {x: 1, y: 1, z: 1}
     - name: Ring_02_L
       parentName: Ring_01_L
@@ -1438,7 +1438,7 @@ ModelImporter:
     - name: Pinky_01_R
       parentName: Hand_R
       position: {x: 0.075783, y: -0.01069, z: 0.025605079}
-      rotation: {x: -0.000003948805, y: 0.003130569, z: -0.0044795997, w: 0.99998504}
+      rotation: {x: -0.0000039488054, y: 0.0031305691, z: -0.0044796, w: 0.9999851}
       scale: {x: 1, y: 1, z: 1}
     - name: Pinky_02_R
       parentName: Pinky_01_R
@@ -1468,7 +1468,7 @@ ModelImporter:
     - name: Thumb_01_R
       parentName: Hand_R
       position: {x: 0.030465, y: 0.015299999, z: -0.02619402}
-      rotation: {x: 0.4138406, y: 0.32485667, z: -0.17411235, w: 0.8323995}
+      rotation: {x: 0.41384062, y: 0.3248567, z: -0.17411236, w: 0.83239955}
       scale: {x: 1, y: 1, z: 1}
     - name: Thumb_02_R
       parentName: Thumb_01_R
